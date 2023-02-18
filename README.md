@@ -1,4 +1,7 @@
 ## SUI
+
+## https://vaginessa.github.io/sui
+
 *a startpage for your server and / or new tab page*
 
 ![screenshot](https://i.imgur.com/J4d7Q3D.png)
